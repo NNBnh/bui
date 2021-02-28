@@ -2,12 +2,18 @@
 <p align="center">UI and colors management that <i>SuperB</i></p>
 <p align="center"><a href="http://pndsndn.blog79.fc2.com/blog-entry-207.html"><img src="https://blog-imgs-132.fc2.com/p/n/d/pndsndn/nyaberin.gif"></a></p>
 <h6 align="center">Artwork by <a href="https://www.pixiv.net/en/users/3605217">いのふとん</a></h6>
+<p align="center"><img src="https://img.shields.io/github/license/NNBnh/bui?labelColor=585858&color=F7CA88&style=for-the-badge" alt="License: GPL-3.0"> <img src="https://img.shields.io/github/last-commit/NNBnh/bui?labelColor=585858&color=F7CA88&style=for-the-badge"></p>
+<p align="center"><img src="https://img.shields.io/github/watchers/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/stars/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/forks/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"> <img src="https://img.shields.io/github/issues/NNBnh/bui?labelColor=585858&color=F7CA88&style=flat-square"></p>
 
 ## About
 ***BUI*** is a UI and colors management method that export the colors hex through environment variables so any program that can read environment variables can used it.
 
+## Features
+`#TODO`
+
 ## Contents
 - [About](#about)
+- [Features](#features)
 - [Contents](#contents)
 - [Setup](#setup)
   - [UI](#ui)
@@ -233,4 +239,4 @@ export BUI_COLOR_TERMINAL015="$BUI_COLOR_LIGHT_ALT"
 
 ## Resources
 - [ANSI escape code](https://en.wikipedia.org/wiki/ANSI_escape_code#8-bit)
-- [Base16](chriskempson.com/projects/base16) by [Chris Kempson](http://chriskempson.com/)
+- [Base16](chriskempson.com/projects/base16) by [Chris Kempson](http://chriskempson.com)
